@@ -1,0 +1,97 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+
+}
+
+#boton-igual {
+    
+    -fx-background-color:#2ECC71;
+    -fx-background-radius: 10 0 25 0;
+}
+#boton-ac {
+    -fx-background-color:red;
+    -fx-text-fill:white;
+    -fx-background-radius: 10 10 10 10;
+}
+
+#boton-del {
+    -fx-text-fill:red;
+}
+
+#label-pantalla {
+    -fx-background-color:#CCCCCC;
+}
+
+
+#boton-inverso-multiplicacion {
+    -fx-text-fill:blue;
+}
+
+
+#boton-potenciacion{
+    -fx-text-fill:blue;
+}
+
+#boton-raiz  {
+    -fx-text-fill:blue;
+}
+
+/*
+#boton-suma:hover {
+    -fx-text-fill: orange;
+    -fx-font-size: 15px;
+}
+
+#boton-resta:hover {
+    -fx-text-fill: orange;
+    -fx-font-size: 15px;
+}
+
+#boton-multiplicacion:hover {
+    -fx-text-fill: orange;
+    -fx-font-size: 15px;
+}
+
+#boton-divicion:hover {
+    -fx-text-fill: orange;
+    -fx-font-size: 15px;
+}
+
+#boton-divicion:hover {
+    -fx-text-fill: orange;
+    -fx-font-size: 15px;
+}
+*/
+
+#boton-masOmenos  {
+    -fx-text-fill:blue;
+}
+
+#boton-Punto  {
+    -fx-text-fill:blue;
+}
+
+.boton-operaciones  {
+    -fx-text-fill: blue;
+    -fx-font-size: 15px;
+}
+
+.botones-numericos {
+  -fx-background-color: darkgray;
+}
+
+.botones-numericos:hover {
+   -fx-font-size: 15px;
+   -fx-text-fill: white;
+   -fx-background-color: black;
+   -fx-font-family: "Roboto Mono for Powerline";
+   -fx-font-weight: bold;
+}
+
+#AnchorPane {
+    -fx-background-color: #0F2507;
+}
+
